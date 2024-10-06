@@ -1,0 +1,11 @@
+Library
+Builds
+Logs
+obj
+UserSettings
+
+*.sln
+*.csproj
+*.unitypackage
+
+.vsconfig
